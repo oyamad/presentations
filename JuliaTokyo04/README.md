@@ -4,7 +4,7 @@
 
 ## インストール方法 (2015/7/9現在)
 
-`Pkg.add("QuantEcon.jl")` でインストールされる版はバグが残っているので
+`Pkg.add("QuantEcon")` でインストールされる版はバグが残っているので
 
 ```julia
 julia> Pkg.clone("QuantEcon")
