@@ -5,10 +5,12 @@
 
 ## インストール方法 (2015/7/9現在)
 
-`Pkg.add("QuantEcon")` でインストールされる版はバグが残っているので
+`Pkg.add("QuantEcon")` でインストールされる版はバグが残っているので，
+開発版 (`markov` ブランチ) を
 
 ```julia
 julia> Pkg.clone("QuantEcon")
+julia> Pkg.checkout("QuantEcon", "markov")
 ```
 
 でインストールしてください．
