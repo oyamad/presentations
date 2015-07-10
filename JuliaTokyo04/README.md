@@ -27,7 +27,6 @@ julia> Pkg.checkout("QuantEcon", "markov")
     * [Documentation](http://quantecon.github.io/QuantEcon.jl/)
   * [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py)
     * [Documentation](http://quanteconpy.readthedocs.org)
-
 * [Quantitative Economics Lectures](http://quant-econ.net)
   * [Julia version](http://quant-econ.net/jl/index.html)
   * [Python version](http://quant-econ.net/py/index.html)
