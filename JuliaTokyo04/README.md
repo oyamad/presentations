@@ -14,3 +14,8 @@ julia> Pkg.checkout("QuantEcon", "markov")
 ```
 
 でインストールしてください．
+
+## Notebooks
+
+* [マルコフ連鎖](http://nbviewer.ipython.org/github/oyamad/presentations/blob/master/JuliaTokyo04/markov_chain.ipynb)
+* [最適成長理論](http://nbviewer.ipython.org/github/oyamad/presentations/blob/master/JuliaTokyo04/optimal_growth.ipynb)
