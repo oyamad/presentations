@@ -15,6 +15,10 @@ julia> Pkg.checkout("QuantEcon", "markov")
 
 でインストールしてください．
 
+## Slides
+
+* [発表スライド](juliatokyo04-slides.pdf)
+
 ## Notebooks
 
 * [マルコフ連鎖](http://nbviewer.ipython.org/github/oyamad/presentations/blob/master/JuliaTokyo04/markov_chain.ipynb)
