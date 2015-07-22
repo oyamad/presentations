@@ -3,14 +3,12 @@
 [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl)
 の紹介@[JuliaTokyo \#4](http://juliatokyo.connpass.com/event/16570/)
 
-## インストール方法 (2015/7/11現在)
+## インストール方法 (2015/7/22更新)
 
-`Pkg.add("QuantEcon")` でインストールされる版はバグが残っているので，
-開発版 (`markov` ブランチ) を
+最新版 (`master` ブランチ) を
 
 ```julia
 julia> Pkg.clone("QuantEcon")
-julia> Pkg.checkout("QuantEcon", "markov")
 ```
 
 でインストールしてください．
