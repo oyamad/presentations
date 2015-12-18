@@ -15,6 +15,10 @@ julia> Pkg.clone("QuantEcon")
 
 でインストールしてください．
 
+## Notebook
+
+* [ジョブサーチ・モデル](http://nbviewer.ipython.org/github/oyamad/presentations/blob/master/JuliaTokyo05/job_search_jl.ipynb)
+
 ## ソースコード
 
 * [ddp.jl](https://github.com/QuantEcon/QuantEcon.jl/blob/master/src/markov/ddp.jl)
