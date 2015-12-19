@@ -15,6 +15,10 @@ julia> Pkg.clone("QuantEcon")
 
 でインストールしてください．
 
+## Slides
+
+* [発表スライド](juliatokyo05-slides.pdf)
+
 ## Notebook
 
 * [ジョブサーチ・モデル](http://nbviewer.ipython.org/github/oyamad/presentations/blob/master/JuliaTokyo05/job_search_jl.ipynb)
