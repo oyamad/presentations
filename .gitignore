@@ -1,0 +1,12 @@
+## LaTeX:
+*.aux
+*.log
+*.nav
+*.out
+*.synctex.gz
+*.synctex.gz(busy)
+*.snm
+*.toc
+
+## Jupyter notebook:
+.ipynb_checkpoints/
