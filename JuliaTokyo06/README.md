@@ -4,15 +4,9 @@
 での type 設計の実践例@[JuliaTokyo \#6](http://juliatokyo.connpass.com/event/36710/)
 (2016年9月3日)
 
-## インストール方法 (2016/8/30現在)
+## Notebook
 
-最新版 (`master` ブランチ) を
-
-```julia
-julia> Pkg.clone("https://github.com/QuantEcon/Games.jl")
-```
-
-でインストールしてください．
+* [実践例](http://nbviewer.jupyter.org/github/oyamad/presentations/blob/master/JuliaTokyo06/normal_form_game_jl.ipynb)
 
 ## 解説
 
