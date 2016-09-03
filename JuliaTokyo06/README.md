@@ -4,6 +4,10 @@
 での type 設計の実践例@[JuliaTokyo \#6](http://juliatokyo.connpass.com/event/36710/)
 (2016年9月3日)
 
+## Slides
+
+* [発表スライド](juliatokyo06-slides.pdf)
+
 ## Notebook
 
 * [実践例](http://nbviewer.jupyter.org/github/oyamad/presentations/blob/master/JuliaTokyo06/normal_form_game_jl.ipynb)
