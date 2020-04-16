@@ -59,3 +59,4 @@ add https://github.com/QuantEcon/Games.jl
 * [`Games.jl`](https://github.com/QuantEcon/Games.jl)
   * [Issues](https://github.com/QuantEcon/Games.jl/issues)
 * [ナッシュ均衡計算アルゴリズム](https://github.com/OyamaZemi/algorithms/tree/master/nash_equilibrium)
+* [sprints](https://github.com/OyamaZemi/sprints)
