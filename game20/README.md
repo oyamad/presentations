@@ -6,6 +6,8 @@
 
 * [`quantecon.game_theory` を使ってみる](https://nbviewer.jupyter.org/github/oyamad/presentations/blob/master/game20/game20_py.ipynb)
 * [`Games.jl` を使ってみる](https://nbviewer.jupyter.org/github/oyamad/presentations/blob/master/game20/game20_jl.ipynb)
+* [零和ゲームのナッシュ均衡](https://nbviewer.jupyter.org/github/oyamad/presentations/blob/master/game20/zerosum_py.ipynb)
+  (宿題3問題4)
 
 ## 実行環境構築
 
